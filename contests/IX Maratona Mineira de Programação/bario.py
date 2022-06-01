@@ -1,6 +1,3 @@
-from numpy import true_divide
-
-
 n = int(input())
 fase = input()
 
